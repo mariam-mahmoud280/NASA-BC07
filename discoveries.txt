@@ -1,0 +1,70 @@
+<html>
+    <body>
+        <body style="background-image: url('https://s3.amazonaws.com/user-media.venngage.com/399866-7e6d293555b757a86cef740c85ddfe1e.jpg');"></body>
+        <div id = "header" > 
+        <h1>
+    <center>Some Discoveries NASA </center>
+</h1>
+        </div>
+     <div class='vedio'>   
+            <iframe width="1000" height="500" src="https://www.youtube.com/embed/NoOKQTb2h7A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+     
+        </div>
+<div id ="topic">
+    <p>
+        Hubble has transformed our understanding of the universe, 
+        <br>its view from orbit unleashing a flood of cosmic discoveries that have changed 
+        astronomy forever. <br>
+        From its explorations of dark matter to its quest to determine the age of the universe,<br>
+        Hubble has helped answer some of the most compelling astronomical questions of our time, and revealed enigmas that we never knew existed. <br>
+        Throughout history, humanity’s eyes on the universe have never seen with more clarity or focus; find out how Hubble has opened the window to 
+        the grandeur and mystery of space.<br>
+        to know more about the discoveries of Hubble’s Exploration of the Universe 
+        <a href="https://www.nasa.gov/content/goddard/2017/highlights-of-hubble-s-exploration-of-the-universe" target="_blank">visit this wibsite</a>
+   
+   </p>
+
+</div>
+
+
+
+
+        </div>
+        <center><button onclick="document.location='nasa.html'">back to the main page</button></center>
+        <style>
+            p{color:white;
+                font-family: Georgia, 'Times New Roman', Times, serif;
+                font-size:25px;
+                line-height: 40px;
+            }
+          .vedio{margin-left: 70px;
+
+            }
+            h1{color: white;
+            font-size:50px;
+            }
+#header{background-color: rgba(184, 173, 233, 0);
+            display: flex;
+            border:solid rgba(7, 4, 4, 0.925) 0.5px;
+            border-radius: 25px;
+            padding: 20px;
+            margin-left:490px;
+            width: 25%;
+            height: 20%;
+            justify-items: center;
+            align-items: center;
+}
+#topic{background-color: rgba(158, 204, 226, 0.233);
+            display: flex;
+            float:left;
+            width: 60%;
+            height: 100%;
+            border:solid rgba(7, 4, 4, 0.925) 2px;
+            border-radius: 28px;
+            padding: 20px;
+            margin-bottom: 50px;
+            margin-left: 250px;
+            }
+</style>
+</body>
+</html>

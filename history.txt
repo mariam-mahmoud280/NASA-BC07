@@ -1,0 +1,91 @@
+<html>
+    <body>
+        <body style="background-image: url('https://s3.amazonaws.com/user-media.venngage.com/399866-7e6d293555b757a86cef740c85ddfe1e.jpg');"></body>
+        <div id = "header" > 
+        <h1>
+    <center>History of NASA</center>
+</h1>
+        </div>
+        <div id ="topic">
+            <p>
+                <p2>
+                    NASA! the most revolutionary science program in history, 
+                    it has brought us from 
+                    the stratosphere to the moon, and has given information about the 
+                     farthest reaches of our solar system. <br><br>
+                     • In1957 during the height of the Cold War the Soviet Union Lords 💯
+                     sthe first artificial satellite into orbit prompting the Sputnik 
+                     crisis the United States responded gathering the best
+                      scientific minds and signing in the National Aeronautics and
+                     Space Act of 1958 this led to the creation of NASA and
+                     the beginning of the space race to the United States and 
+                      winning the space race was the most important task.<br>
+                     <br> Yet…<br>
+                    <br>•	the Soviets were the first to send a man into space while the United States were working on
+                     Project Mercury Alan Shepard and John Glenn were the first Americans in space.<br>
+                    
+                    <br>•	In1962 President John F Kennedy promised the American people that 
+                    “we choose to go to the moon not because they are easy but because they are hard”.<br>
+                    
+                    <br>•	In 1969 the Apollo 11 team successfully landed on the moon the whole 
+                    world watched as Neil Armstrong uttered those famous words.<br>
+                    
+                    <br>•	In July 17th 1975 after five more trips led to ending the space race and a large chapter in the Cold War.<br>
+                    
+                    <br>•	In 1990 the years to follow would introduce the
+                     space shuttle program which included more
+                     than 20 missions in the Hubble telescope.<br>
+                    
+                   <br> • In 1998 the nations of the world came together to form the International Space Station 👌👌 
+                   it has opened a new path for advances in science and technology and will for years to come.<br>
+                  
+                    <br>• In 2010 they have developed further technology for manned missions in space 
+                    NASA has also sent the Curiosity rover to Mars in an effort to learn about the surface and 
+                    give us an idea of what humans may encounter in the years to come.<br>
+
+                    <br><a href="https://www.nasa.gov/topics/history/index.html">Up next…..</a> 
+                    
+</p>
+        </div>
+        
+        <center><button onclick="document.location='nasa.html'">back to the main page</button></center>
+<style>
+  
+.btn{
+        color: teal;
+    }
+mark{background-color:rgba(16, 164, 233, 0.411);
+    color:white; }
+p{color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:25px;
+    line-height: 40px;
+}
+    h1{color: white;
+     font-size:50px;
+
+    }
+#header{background-color: rgba(184, 173, 233, 0);
+            display: flex;
+            border:solid rgba(7, 4, 4, 0.925) 0.5px;
+            border-radius: 25px;
+            padding: 20px;
+            margin-left:480px;
+            width: 50%;
+            height: 20%;
+            justify-items: center;
+            align-items: center;
+}
+#topic{background-color: rgba(158, 204, 226, 0.233);
+            display: flex;
+            width: 90%;
+            height: 200%;
+            border:solid rgba(7, 4, 4, 0.925) 2px;
+            border-radius: 28px;
+            padding: 20px;
+            margin-bottom: 50px;
+            margin-left: 50px;
+        }
+</style>
+    </body>
+</html>

@@ -1,0 +1,95 @@
+<html>
+    <body>
+        <body style="background-image: url('https://s3.amazonaws.com/user-media.venngage.com/399866-7e6d293555b757a86cef740c85ddfe1e.jpg');"></body>
+        <div id = "header" > 
+        <h1>
+    <center>Information about NASA</center>
+</h1>
+        </div>
+        <div id ="topic">
+            <p>
+                <mark>What is NASA?<br></mark>
+•NASA stands for <strong>National Aeronautics and Space Administration</strong>. 
+<br>NASA is a U.S. government agency that is responsible for science and technology related to air and space. 
+<br>The Space Age started in 1957 with the launch of the Soviet satellite Sputnik.
+
+NASA opened for business on Oct. 1, 1958. The agency was created to oversee U.S. space exploration and aeronautics research.
+
+The administrator is in charge of NASA. The NASA administrator is nominated by the president and confirmed by a vote in the Senate.<br><br>
+
+<mark>What Does NASA Do?<br></mark>
+•Many people know something about NASA’s work. But most probably have no idea about how many different things the agency does.
+ Astronauts in orbit conduct scientific research. Satellites help scientists learn more about Earth. 
+ Space probes study the solar system and beyond. New developments improve air travel and other aspects of flight.<br>
+ •NASA is also beginning a new program to send humans to explore the Moon and Mars. <br>
+  In addition to those major missions, NASA does many other things. <br>
+ The agency shares what it learns so that its information can make life better for people worldwide.<br>
+  For example, companies can use NASA discoveries to create new spinoff products.<br>
+
+  •NASA helps teachers prepare students who will be the engineers, scientists, astronauts and other NASA workers of the future. 
+  They will be the adventurers who will continue exploration of the solar system and universe. 
+  NASA has a tradition of investing in programs and activities that inspire students, educators, families and communities in the excitement and discovery of exploration. 
+  NASA offers training to help teachers learn new ways to teach science, technology, engineering and mathematics.
+  The agency also involves students in NASA missions to help them get excited about learning.
+<br><br>
+<mark>Where Is NASA?</mark><br>
+•NASA Headquarters is in Washington, D.C. There are 10 NASA centers across the United States. 
+There are also seven smaller NASA work places where they test and study Earth and space.
+ Thousands of people work for NASA! Being an astronaut is probably the best-known job at NASA, but astronauts make up just a small part of the workforce.
+  A lot of engineers and scientists work at NASA. People are doing other jobs, too, like secretaries, writers, lawyers and even teachers.<br><br>
+
+<mark>What has NASA done?</mark><br>
+•From its start, NASA began to plan for human spaceflight. The Mercury, Gemini and Apollo programs helped NASA learn about flying in space. This led to the first human landing on the Moon in 1969. NASA has astronauts living and working on the International Space Station. Space probes have visited every planet in the solar system. Scientists have looked far into space using telescopes. NASA satellites help people understand weather patterns on Earth. NASA also helps develop and test new aircraft. Some of the airplanes have set new records. NASA works to make air travel faster and safer.
+In 2018, NASA turned 60 years old!<br>
+
+<a href="https://www.nasa.gov/" target="_blank">more..</a>
+
+</p>
+
+
+
+            
+        </div>
+        
+        <center><button onclick="document.location='nasa.html'">back to the main page</button></center>
+
+
+<style>
+.btn{
+        color: teal;
+    }
+mark{background-color:rgba(16, 164, 233, 0.411);
+    color:white; }
+p{color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:25px;
+    line-height: 40px;
+}
+    h1{color: white;
+        font-size: 50px;
+
+    }
+#header{background-color: rgba(184, 173, 233, 0.007);
+            display: flex;
+            border:solid rgba(7, 4, 4, 0.925) 0.5px;
+            border-radius: 25px;
+            padding: 20px;
+            margin-left:370px;
+            width: 45%;
+            height: 20%;
+            justify-items: center;
+            align-items: center;
+}
+#topic{background-color: rgba(158, 204, 226, 0.233);
+            display: flex;
+            width: 90%;
+            height: 300%;
+            border:solid rgba(7, 4, 4, 0.925) 2px;
+            border-radius: 28px;
+            padding: 20px;
+            margin-bottom: 50px;
+            margin-left: 50px;
+        }
+</style>
+    </body>
+</html>

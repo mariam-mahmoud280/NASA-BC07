@@ -1,0 +1,59 @@
+<html>
+    <body>
+        <body style="background-image: url('https://s3.amazonaws.com/user-media.venngage.com/399866-7e6d293555b757a86cef740c85ddfe1e.jpg');"></body>
+        <div id = "header" > 
+        <h1>
+    <center>NASA <br>competations 2020</center>
+</h1>
+        </div>
+        <div id ="topic">
+            <p>
+                Space Apps 2020!..<br> 
+
+      Space Apps is an international hackathon, where teams engage with NASA’s free and open data to address real-world problems on Earth and in space. 
+      <br>Space Apps 2018 included over 18,000 participants at more than 200 events in 75 countries. 
+
+      <br>The challenge categories for 2020 have been published, and they are: 
+
+<br>Observe# Observation is critical to gathering the scientific and technical knowledge needed to take action                      
+inform # we all must be well informed. NASA, CSA, CNES, and JAXA not only gather space-based data, but they also compile archival data and share analysis and results with policy makers, scientists, and/or the broader community          
+<br>sustain# advances in space exploration and Earth science have revealed the importance of building a sustainable future. 
+<br>Create # Creation lies at the heart of change. Whether it’s artwork, hardware, or a new technology, challenges in this category will ask you to imagine, build, and create awareness.                     
+<br>confront # From natural disasters to social and economic inequality, there comes a time when we must confront the problems we detect.           
+<br>connect# Connection empowers us to take action together. Challenges in this category will ask you to examine methods for
+ communicating with one another, and to analyze the complex networks of people and ideas that contribute to space agency missions on Earth and in space. 
+<br>For more details please visit 
+<a href="https://2020.spaceappschallenge.org/challenges/" target="_blank"> NASASPACE APPS here </a> 
+            </p>
+        </div>
+        <center><button onclick="document.location='nasa.html'">back to the main page</button></center>
+            <style>
+                   h1{color: white;
+                    margin-left: 50px;
+}
+#header{background-color: rgba(184, 173, 233, 0.192);
+        display: flex;
+        border:solid rgba(7, 4, 4, 0.925) 0.5px;
+        border-radius: 25px;
+        padding: 20px;
+        margin-left:480px;
+        width: 25%;
+        height: 20%;
+        justify-items: center;
+        align-items: center;}
+#topic{background-color: rgba(158, 204, 226, 0.233);
+            display: flex;
+            float:left;
+            width: 90%;
+            height: 120%;
+            border:solid rgba(7, 4, 4, 0.925) 2px;
+            border-radius: 28px;
+            padding: 20px;
+            margin-bottom: 50px;
+        }
+p{color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:25px;
+    line-height: 40px;
+}
+            </style>
